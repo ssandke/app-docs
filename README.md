@@ -12,7 +12,7 @@ Each app gets stable public URLs for:
 - support page
 - privacy policy
 
-Example URLs for PointMeAtIt:
+Example URLs for Point Me At It:
 
 - `https://apps.sandke.com/pointmeatit/`
 - `https://apps.sandke.com/pointmeatit/support/`
